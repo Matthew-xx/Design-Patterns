@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="75876818-df64-4744-bc1e-46d2caec8841" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="75876818-df64-4744-bc1e-46d2caec8841" name="Default Changelist" comment="" />
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Composite/composite.go">
@@ -29,22 +34,78 @@
               <folding>
                 <element signature="e#19#47#0" expanded="true" />
               </folding>
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bridage/bridage.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="47" column="53" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Proxy/proxy.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+              <folding>
+                <element signature="e#15#43#0" expanded="true" />
+              </folding>
+>>>>>>> 8da87fa0515d0f9e5b1b3afc0dd5569ee50a8365
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Composite/组合模式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="180">
                 <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+=======
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bridage/桥接模式.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="306">
+                <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Proxy/代理模式.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="216">
+                <caret line="12" column="208" selection-start-line="12" selection-start-column="208" selection-end-line="12" selection-end-column="208" />
+>>>>>>> 8da87fa0515d0f9e5b1b3afc0dd5569ee50a8365
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/Bridage/bridage_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+=======
+        <entry file="file://$PROJECT_DIR$/Proxy/proxy_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+>>>>>>> 8da87fa0515d0f9e5b1b3afc0dd5569ee50a8365
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -55,9 +116,18 @@
     </option>
   </component>
   <component name="GOROOT" path="F:\Software\Go" />
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+=======
+<<<<<<< HEAD
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+=======
+>>>>>>> 8da87fa0515d0f9e5b1b3afc0dd5569ee50a8365
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -80,18 +150,25 @@
         <option value="$PROJECT_DIR$/Proxy/proxy.go" />
         <option value="$PROJECT_DIR$/Proxy/proxy_test.go" />
         <option value="$PROJECT_DIR$/Proxy/代理模式.md" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
         <option value="$PROJECT_DIR$/Adapter/adapter_test.go" />
         <option value="$PROJECT_DIR$/Adapter/adapter.go" />
         <option value="$PROJECT_DIR$/Adapter/适配器.md" />
         <option value="$PROJECT_DIR$/Bridage/bridage_test.go" />
         <option value="$PROJECT_DIR$/Bridage/bridage.go" />
         <option value="$PROJECT_DIR$/Bridage/桥接模式.md" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Facade/facade.go" />
         <option value="$PROJECT_DIR$/Facade/facade_test.go" />
         <option value="$PROJECT_DIR$/Facade/门面模式.md" />
         <option value="$PROJECT_DIR$/Composite/composite_test.go" />
         <option value="$PROJECT_DIR$/Composite/composite.go" />
         <option value="$PROJECT_DIR$/Composite/组合模式.md" />
+=======
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
       </list>
     </option>
   </component>
@@ -103,14 +180,33 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="451" />
     <option name="y" value="58" />
+=======
+    <option name="x" value="673" />
+    <option name="y" value="59" />
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
     <option name="width" value="869" />
     <option name="height" value="657" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+<<<<<<< HEAD
+=======
+=======
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="672" />
+    <option name="y" value="62" />
+    <option name="width" value="869" />
+    <option name="height" value="657" />
+  </component>
+>>>>>>> 8da87fa0515d0f9e5b1b3afc0dd5569ee50a8365
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -121,13 +217,55 @@
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
               <item name="Design-Patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Patterns" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Design-Patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="Design-Patterns" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="Composite" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="Adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design-Patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Design-Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="Bridage" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="设计模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="设计模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="Decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="设计模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="Factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="设计模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="Observer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="设计模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="设计模式" type="b2602c69:ProjectViewProjectNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="Singleton" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 8da87fa0515d0f9e5b1b3afc0dd5569ee50a8365
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
             </path>
           </expand>
           <select />
@@ -136,9 +274,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+=======
+<<<<<<< HEAD
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+=======
+>>>>>>> 8da87fa0515d0f9e5b1b3afc0dd5569ee50a8365
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
@@ -162,6 +308,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Go Test.facade_test.go facade.go">
     <configuration name="Singleton_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="设计模式" />
@@ -183,11 +330,60 @@
       <method v="2" />
     </configuration>
     <configuration name="TestGetInstance in Singleton_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="Go Test.client2.go singleton.go client1.go Singleton_test.go">
+    <configuration name="go build Singleton_test.go singleton.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="设计模式" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Singleton/Singleton_test.go|$PROJECT_DIR$/Singleton/singleton.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Singleton_test.go singleton.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="设计模式" />
       <working_directory value="$PROJECT_DIR$/Singleton" />
       <framework value="gotest" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/Singleton/Singleton_test.go|$PROJECT_DIR$/Singleton/singleton.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Singleton_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
+      <module name="设计模式" />
+      <working_directory value="$PROJECT_DIR$/Singleton" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/Singleton/Singleton_test.go" />
+<<<<<<< HEAD
+      <pattern value="^TestGetInstance$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client2.go singleton.go client1.go Singleton_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+=======
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetInstance in Singleton_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
+      <module name="设计模式" />
+      <working_directory value="$PROJECT_DIR$/Singleton" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+<<<<<<< HEAD
+      <filePath value="$PROJECT_DIR$/Singleton/client2.go|$PROJECT_DIR$/Singleton/singleton.go|$PROJECT_DIR$/Singleton/client1.go|$PROJECT_DIR$/Singleton/Singleton_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="facade_test.go facade.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="设计模式" />
+      <working_directory value="$PROJECT_DIR$/Facade" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/Facade/facade_test.go|$PROJECT_DIR$/Facade/facade.go" />
+=======
       <filePath value="$PROJECT_DIR$/Singleton/Singleton_test.go" />
       <pattern value="^TestGetInstance$" />
       <method v="2" />
@@ -199,24 +395,24 @@
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/Singleton/client2.go|$PROJECT_DIR$/Singleton/singleton.go|$PROJECT_DIR$/Singleton/client1.go|$PROJECT_DIR$/Singleton/Singleton_test.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="facade_test.go facade.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="设计模式" />
-      <working_directory value="$PROJECT_DIR$/Facade" />
-      <framework value="gotest" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/Facade/facade_test.go|$PROJECT_DIR$/Facade/facade.go" />
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Go Test.facade_test.go facade.go" />
         <item itemvalue="Go Test.TestCarFacade_CreateCompleteCar in facade_test.go" />
         <item itemvalue="Go Test.client2.go singleton.go client1.go Singleton_test.go" />
         <item itemvalue="Go Test.Singleton_test.go" />
         <item itemvalue="Go Test.TestGetInstance in Singleton_test.go" />
+=======
+        <item itemvalue="Go Test.client2.go singleton.go client1.go Singleton_test.go" />
+        <item itemvalue="Go Test.Singleton_test.go" />
+        <item itemvalue="Go Test.TestGetInstance in Singleton_test.go" />
+        <item itemvalue="Go Test.Singleton_test.go singleton.go" />
+        <item itemvalue="Go Build.go build Singleton_test.go singleton.go" />
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
       </list>
     </recent_temporary>
   </component>
@@ -233,6 +429,7 @@
     <history-entry file="client2_go_singleton_go_client1_go_Singleton_test_go - 2020.05.23 at 09h 08m 38s.xml">
       <configuration name="client2.go singleton.go client1.go Singleton_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
+<<<<<<< HEAD
     <history-entry file="facade_test_go_facade_go - 2020.05.28 at 09h 07m 55s.xml">
       <configuration name="facade_test.go facade.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
@@ -242,30 +439,65 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25463536" />
+=======
+  </component>
+  <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="673" y="59" width="869" height="657" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23980223" />
+=======
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14447807" />
+>>>>>>> 8da87fa0515d0f9e5b1b3afc0dd5569ee50a8365
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.31931165" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3207856" />
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
+=======
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
+=======
+      <window_info anchor="bottom" id="Version Control" order="9" />
+>>>>>>> 8da87fa0515d0f9e5b1b3afc0dd5569ee50a8365
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.20121029" />
+=======
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32880098" />
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -291,6 +523,7 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -309,11 +542,21 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$observer_go_observer_test_go__1_.out" NAME="observer.go observer_test.go (1) Coverage Results" MODIFIED="1590026136949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Design_Patterns$facade_test_go_facade_go.out" NAME="facade_test.go facade.go Coverage Results" MODIFIED="1590628073493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+=======
+  </component>
+=======
+>>>>>>> 8da87fa0515d0f9e5b1b3afc0dd5569ee50a8365
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$observer_go_observer_test_go__1_.out" NAME="observer.go observer_test.go (1) Coverage Results" MODIFIED="1590026136949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
     <SUITE FILE_PATH="coverage/$TestGetInstance_in_Singleton_test_go.out" NAME="TestGetInstance in Singleton_test.go Coverage Results" MODIFIED="1590195649158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/$observer_go_observer_test_go.out" NAME="observer.go observer_test.go Coverage Results" MODIFIED="1590026074771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/$client2_go_singleton_go_client1_go_Singleton_test_go.out" NAME="client2.go singleton.go client1.go Singleton_test.go Coverage Results" MODIFIED="1590196117203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/$TestFib_in_observer_test_go.out" NAME="TestFib in observer_test.go Coverage Results" MODIFIED="1590025970895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/Design_Patterns$TestCarFacade_CreateCompleteCar_in_facade_test_go.out" NAME="TestCarFacade_CreateCompleteCar in facade_test.go Coverage Results" MODIFIED="1590628057343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+=======
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
     <SUITE FILE_PATH="coverage/$Singleton_test_go_singleton_go.out" NAME="Singleton_test.go singleton.go Coverage Results" MODIFIED="1590195681624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
@@ -455,6 +698,10 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
     <entry file="file://$PROJECT_DIR$/Proxy/proxy.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -465,6 +712,11 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 8da87fa0515d0f9e5b1b3afc0dd5569ee50a8365
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
     <entry file="file://$PROJECT_DIR$/Proxy/代理模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -482,6 +734,10 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
     <entry file="file://$PROJECT_DIR$/Adapter/adapter.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -506,6 +762,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Bridage/bridage.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -523,6 +780,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
     <entry file="file://$PROJECT_DIR$/Bridage/bridage_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -530,6 +789,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Facade/facade.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -578,6 +838,31 @@
             <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
           </first_editor>
           <second_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/Bridage/bridage.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="47" column="53" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bridage/桥接模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/Proxy/proxy.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="e#15#43#0" expanded="true" />
+          </folding>
+>>>>>>> 8da87fa0515d0f9e5b1b3afc0dd5569ee50a8365
+>>>>>>> 6a6d08d82a0ef2ac59a63ea20793ee8f692745f9
         </state>
       </provider>
     </entry>
