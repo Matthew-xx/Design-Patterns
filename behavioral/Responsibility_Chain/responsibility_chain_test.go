@@ -10,6 +10,6 @@ func TestHandler_Handle(t *testing.T) {
 	zhang := NewHandler("laozhang",wang,2)
 	r := wang.Handler(1)
 	fmt.Println(r)
-	r = zhang.Handler(2)
+	r = zhang.Handler(3)
 	fmt.Println(r)
 }
