@@ -17,6 +17,7 @@ func NewFlyWeightFactory() *FlyWeightFactory {
 	return &FlyWeightFactory{pool:make(map[string]*FlyWeight)}
 }
 
+//核心
 func (f *FlyWeightFactory) GetFlyWeight(name string) *FlyWeight  {
 	weight,ok := f.pool[name]
 	if !ok {
